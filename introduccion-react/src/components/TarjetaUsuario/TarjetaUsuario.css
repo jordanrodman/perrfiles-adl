@@ -1,0 +1,31 @@
+
+img{
+    height: 50%;
+    width: 50%;
+  }
+  
+  .contenedor-principal{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .contenedor-perfiles{
+    width: 300px;
+    height: 300px;
+    border: solid 3px black;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+  }
+
+.seleccionado{
+    width: 300px;
+    height: 300px;
+    border: solid 3px black;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(47, 255, 89);
+}
+  
